@@ -1,27 +1,4 @@
-.. image:: https://errbot.readthedocs.org/en/latest/_static/errbot.png
-   :target: http://errbot.io
-
-|
-
-.. image:: https://img.shields.io/travis/errbotio/errbot/master.svg
-   :target: https://travis-ci.org/errbotio/errbot/
-
-.. image:: https://img.shields.io/pypi/v/errbot.svg
-   :target: https://pypi.python.org/pypi/errbot
-   :alt: Latest Version
-
-.. image:: https://img.shields.io/badge/License-GPLv3-green.svg
-   :target: https://pypi.python.org/pypi/errbot
-   :alt: License
-
-.. image:: https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg
-   :target: https://gitter.im/errbotio/errbot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
-   :alt: Join the chat at https://gitter.im/errbotio/errbot
-
-|
-
-
-Errbot
+DanBot
 ======
 
 Errbot is a chatbot. It allows you to start scripts interactively from your chatrooms
